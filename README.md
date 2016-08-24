@@ -1,5 +1,8 @@
 #Chaining Array Methods
 
+## Screenshots
+
+## Description
 >Using one single line of 
 >JavaScript code, complete the 
 >following tasks on the array
@@ -13,3 +16,17 @@
 ```
 var integers = [13, 25, 6, 3, 11, 2, 18, 7, 21, 1, 29, 20, 12, 8];
 ```
+
+## How To Run
+* git clone and navigate to cloned directory
+In your terminal run:
+```
+http-server -p 9999
+```
+Then in chrome navigate to:
+```
+http://localhost:9999
+```
+
+## Contributors
+- [Taylor Shuff](http://github.com/tkylesh)
